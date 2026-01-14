@@ -1,4 +1,4 @@
-# WinISOBuilder: PRO ISO Automation Platform
+# WinISOBuilder: Pro ISO Automation Platform
 > **Efficiency. Consistency. Universality.**
 > *A unified solution for generating unattended Windows installation media across mixed-infrastructure environments.*
 
@@ -8,6 +8,13 @@
 **WinISOBuilder** is a robust, C#-based desktop automation tool designed to streamline the creation of custom Windows deployment images. It solves the fragmentation problem in enterprise environments by bridging the gap between modern **UEFI/GPT** security standards and legacy **BIOS/MBR** hardware.
 
 By abstracting complex `MDT` (Microsoft Deployment Toolkit) and `ADK` (Assessment and Deployment Kit) commands into an intuitive WPF interface, it reduces image engineering time from **hours to minutes**, ensuring 100% consistent, repeatable deployments.
+
+> [!NOTE]
+> **Beta Release (v1.0)**
+> This is the initial public release of WinISOBuilder. While rigorously tested, users may encounter edge cases on specific hardware configurations.
+>
+> **Your Feedback Matters!**
+> We are actively improving this tool. If you encounter issues or have feature requests, please reach out via GitHub Issues or contact me directly. Your input helps us build a better tool for everyone.
 
 ---
 
@@ -105,6 +112,6 @@ Built for performance and reliability on the .NET ecosystem.
 > *"Empowering IT professionals with tools that simplify the complex."*
 
 ### 🌐 Connect with Me
-*   **GitHub:** [github.com/mohdsabuhammad](https://github.com/mohdsabuhammad)
+*   **GitHub:** [github.com/MrMD21318](https://github.com/MrMD21318)
 *   **LinkedIn:** [Mohammad AbuHammad](https://www.linkedin.com/in/mohammad-abuhammad) <!-- Placeholder if not known, but good practice to include -->
 
