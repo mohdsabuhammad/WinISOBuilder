@@ -1,0 +1,6 @@
+*
+!Dist/
+!Dist/WinISOBuilder_Setup.exe
+
+!README.md
+!.gitignore
