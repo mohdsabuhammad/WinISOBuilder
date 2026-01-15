@@ -138,24 +138,28 @@ ISO Root/
 
 ---
 
-## 🛠️ How to Build & Run
 
-### Prerequisites
-*   **Visual Studio 2022** (with .NET Desktop Development workload).
-*   **.NET 8.0 SDK**.
-*   **Windows ADK** (Deployment Tools) installed for `oscdimg.exe`.
+> [!IMPORTANT]
+> **BETA RELEASE (v1.0)**  
+> This is the first public release of Windows ISO Builder. While we have tested it extensively, you may encounter bugs or issues.  
+> Your feedback is valuable! Please report any issues you face so we can improve the tool.
 
-### Steps
-1.  **Clone the Repository**:
-    ```bash
-    git clone https://github.com/mohdsabuhammad/WindowsISOBuilder.git
-    ```
-2.  **Open Solution**:
-    Open `WinISOBuilder.sln` in Visual Studio.
-3.  **Restore & Build**:
-    Build the solution in **Debug** or **Release** mode.
-4.  **Run**:
-    Start `WinISOBuilder.exe`. (Must run as **Administrator** to perform ISO mounting operations).
+## 📥 How to Install & Run
+
+Since this is a packaged application, **you do NOT need to clone the repository or install Visual Studio.**
+
+### Steps:
+1.  **Download** the latest `WinISOBuilder_Setup.exe` from the repository files.
+2.  **Run the Installer**: Double-click `WinISOBuilder_Setup.exe` to install the application.
+3.  **Run as Administrator**:
+    *   Once installed, locate **WinISOBuilder** in your Start Menu.
+    *   Right-click and select **"Run as administrator"**.
+    *   *Note: Administrator privileges are required to mount ISOs and perform disk operations.*
+
+### ⚠️ Common Issues
+*   **Antivirus/SmartScreen**: Since this is a new tool, Windows SmartScreen might flag it. Click "More Info" -> "Run Anyway" to proceed.
+*   **ADK Missing**: The app will check for the Windows Assessment and Deployment Kit (ADK). If missing, it will prompt you to install it (required for creating ISOs).
+
 
 ---
 
