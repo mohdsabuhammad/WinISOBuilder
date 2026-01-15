@@ -1,6 +1,6 @@
 # Windows ISO Builder 🏗️
 
-> **The Modern, Open-Source Tool for Automating Windows 11 Deployments**
+> **The Modern Tool for Automating Windows 11 Deployments**
 
 **Windows ISO Builder** is a powerful WPF application designed to simplify the creation of custom, unattended Windows 11 installation media. Unlike complex proprietary tools or manual XML editing, this tool offers a beautiful **Fluent Design** interface to guide you through every step of the configuration process.
 
@@ -29,10 +29,9 @@
 Why choose **Windows ISO Builder** over existing solutions like NTLite, Rufus, or manual scripts?
 
 
-**Windows ISO Builder is completely FREE and Open Source.**
+**Windows ISO Builder is completely FREE.**
 
 *   **No Hidden Costs**: All features, including advanced automation and customization, are free.
-*   **Open Source**: The full source code is available on GitHub.
 *   **No Premium Version**: There is no "Pro" version; you get the full power of the tool immediately.
 
 **Key Advantages:**
