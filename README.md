@@ -9,16 +9,16 @@
 *(Click to view more screenshots)*
 
 ### 📸 Application Tour
-|                                             |                                                  |                                                     |
-| :-----------------------------------------: | :----------------------------------------------: | :-------------------------------------------------: |
-| ![Source ISO](Screenshots/02_SourceISO.png) |      ![Edition](Screenshots/03_Edition.png)      |   ![User Account](Screenshots/04_UserAccount.png)   |
-|              **1. Select ISO**              |              **2. Choose Edition**               |                **3. Configure User**                |
-|  ![Regional](Screenshots/05_Regional.png)   | ![Applications](Screenshots/06_Applications.png) | ![Windows Update](Screenshots/07_WindowsUpdate.png) |
-|          **4. Regional Settings**           |               **5. Applications**                |                **6. Windows Update**                |
-|  ![Security](Screenshots/08_Security.png)   |     ![Advanced](Screenshots/09_Advanced.png)     |       ![Summary](Screenshots/10_Summary.png)        |
-|               **7. Security**               |             **8. Advanced Options**              |                **9. Summary Review**                |
-|                                             |        ![Build](Screenshots/11_Build.png)        |                                                     |
-|                                             |              **10. Build Process**               |                                                     |
+|                                             |                                                     |                                                     |
+| :-----------------------------------------: | :-------------------------------------------------: | :-------------------------------------------------: |
+| ![Source ISO](Screenshots/02_SourceISO.png) |       ![Edition](Screenshots/03_Edition.png)        |   ![User Account](Screenshots/04_UserAccount.png)   |
+|              **1. Select ISO**              |                **2. Choose Edition**                |                **3. Configure User**                |
+|  ![Regional](Screenshots/05_Regional.png)   |  ![Applications](Screenshots/06_Applications.png)   | ![Windows Update](Screenshots/07_WindowsUpdate.png) |
+|          **4. Regional Settings**           |                 **5. Applications**                 |                **6. Windows Update**                |
+|  ![Security](Screenshots/08_Security.png)   |      ![Advanced](Screenshots/09_Advanced.png)       |       ![Summary](Screenshots/10_Summary.png)        |
+|               **7. Security**               |               **8. Advanced Options**               |                **9. Summary Review**                |
+|  ![Build Ready](Screenshots/11_Build.png)   | ![Build Progress](Screenshots/12_BuildProgress.png) |                                                     |
+|           **10. Ready to Build**            |            **11. Building in Progress**             |                                                     |
 
 
 
