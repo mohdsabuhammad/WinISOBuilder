@@ -28,15 +28,12 @@
 
 Why choose **Windows ISO Builder** over existing solutions like NTLite, Rufus, or manual scripts?
 
-| Feature                     | 🏆 Windows ISO Builder                  | 💰 NTLite (Free/Pro)           | 💾 Rufus           | 📝 Manual XML          |
-| :-------------------------- | :------------------------------------- | :---------------------------- | :---------------- | :-------------------- |
-| **Cost & License**          | **100% Free & Open Source**            | Freemium (Best features paid) | Free              | Free                  |
-| **User Experience**         | **Modern Fluent UI (WPF)**             | Legacy Win32 Interface        | Simple Boot Maker | Text Editor (Complex) |
-| **Application Integration** | **Local Files + Download URLs**        | Limited in Free Version       | None              | None                  |
-| **Intelligent Automation**  | **Auto-detects Silent Args** (MSI/EXE) | Manual Configuration          | N/A               | Manual                |
-| **Script Generation**       | **Dynamic PowerShell Scripts**         | Rigid Integration             | None              | Manual Coding         |
-| **Safety**                  | **Smart Key Detection** (Home/Pro)     | Power User Focused            | N/A               | Error-Prone           |
-| **Customization**           | **Full Unattended Support**            | High                          | Boot Only         | High but Difficult    |
+
+**Windows ISO Builder is completely FREE and Open Source.**
+
+*   **No Hidden Costs**: All features, including advanced automation and customization, are free.
+*   **Open Source**: The full source code is available on GitHub.
+*   **No Premium Version**: There is no "Pro" version; you get the full power of the tool immediately.
 
 **Key Advantages:**
 1.  **"One-Click" Local App Integration**: Drag specific .exe/.msi files, and the tool automatically suggests silent install arguments (e.g., `/qn` for MSI).
