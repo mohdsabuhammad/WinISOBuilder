@@ -62,6 +62,7 @@ Why choose **Windows ISO Builder** over existing solutions like NTLite, Rufus, o
 ### 4. 🧠 Intelligent Logic
 *   **Edition Matching**: Automatically detects your Windows Edition (Home, Pro, Education) and applies the correct generic product key to **prevent installation crashes**.
 *   **Dynamic Scripting**: Generates custom `InstallApps.ps1` and `PostInstall.ps1` scripts on the fly based on your selection.
+*   **Enterprise Domain Join**: For **Enterprise** editions, the tool automatically adds a post-installation prompt. Upon first login, a PowerShell script will ask if you wish to join the machine to a domain, allowing for seamless corporate integration.
 
 ---
 
