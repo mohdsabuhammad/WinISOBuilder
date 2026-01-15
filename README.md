@@ -155,6 +155,19 @@ ISO Root/
 > This is the first public release of Windows ISO Builder. While we have tested it extensively, you may encounter bugs or issues.  
 > Your feedback is valuable! Please report any issues you face so we can improve the tool.
 
+## 💻 System Requirements
+
+To ensure the tool runs correctly and can build ISOs, your system requires:
+
+1.  **Windows 10 or Windows 11** (64-bit).
+2.  **Administrator Privileges** (Required for mounting ISOs).
+3.  **Windows Assessment and Deployment Kit (ADK)**:
+    *   **Required for**: `oscdimg.exe` to create bootable ISOs.
+    *   **Download**: The app will automatically check for this. If missing, please download the **Deployment Tools** feature from the [Microsoft ADK page](https://learn.microsoft.com/en-us/windows-hardware/get-started/adk-install).
+4.  **Disk Space**: At least **15 GB** of free space for extracting and building the ISO.
+
+---
+
 ## 📥 How to Install & Run
 
 Since this is a packaged application, **you do NOT need to clone the repository or install Visual Studio.**
